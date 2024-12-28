@@ -1,9 +1,21 @@
-<img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Octocat Illustration" width="150" align="right">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+👋,+I'm+Zainal+Abrori" alt="Typing SVG" /></a>
- 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zainalabrori&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Octocat Illustration" width="150">
+    </td>
+    <td align="center">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+👋,+I'm+Zainal+Abrori" alt="Typing SVG">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 <h3 align="center">A passionate Full-Stack Web Developer from Indonesia</h3>
 
