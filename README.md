@@ -4,7 +4,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=zainalabrori&label=Profile%20Views&color=0e75b6&style=flat)
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Full-Stack+Web+And+Mobile+Developer;Laravel+%7C+TailwindCSS+%7C+Flutter+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Full-Stack+Web+And+Mobile+Developer...;Laravel+%7C+TailwindCSS+%7C+Flutter+Developer)](https://git.io/typing-svg)
   
   <p><strong>A passionate Full-Stack Web Developer from Indonesia</strong></p>
   
